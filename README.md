@@ -12,4 +12,5 @@
 *(Здесь мы позже добавим ссылки на твои лучшие файлы с кодом)*
 
 ## 📫 Как со мной связаться
+- Telegram: @vincerid
 - Email: vincerid.tester01@gmail.com
