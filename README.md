@@ -9,7 +9,7 @@
 - **Инструменты**: Git (базово), VS Code, Node.js
 
 ## 🚀 Мои проекты
-*(Здесь мы позже добавим ссылки на твои лучшие файлы с кодом)*
+- [Практика работы с API (Axios, Fetch)](https://github.com/vincerids/js-practice)
 
 ## 📫 Как со мной связаться
 - Telegram: @vincerid
