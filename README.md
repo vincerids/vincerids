@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Андрей 👋
 
-<!--
-**vincerids/vincerids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Fullstack JavaScript разработчик. Изучаю стек с нуля самостоятельно, не боюсь кода, который «не работает».
 
-Here are some ideas to get you started:
+## 🛠 Технологии, которые я использую
+- **JavaScript (ES6+)**: замыкания, прототипы, классы, промисы, `async/await`
+- **Работа с API**: `fetch`, `axios`, обработка ошибок, `Promise.all`
+- **Структуры данных**: `Map`, `Set`, рекурсия
+- **Инструменты**: Git (базово), VS Code, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты
+*(Здесь мы позже добавим ссылки на твои лучшие файлы с кодом)*
+
+## 📫 Как со мной связаться
+- Email: vincerid.tester01@gmail.com
