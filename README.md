@@ -10,7 +10,8 @@
 
 ## 🚀 Мои проекты
 - [Практика работы с API (Axios, Fetch)](https://github.com/vincerids/js-practice/blob/main/api-practice.js)
-
+- [Парсер новых спотовых и фьючерсных листингов Binance](https://github.com/vincerids/js-practice/blob/main/binance-listing-tracker.js)
+  
 ## 📫 Как со мной связаться
 - Telegram: @vincerid
 - Email: vincerid.tester01@gmail.com
