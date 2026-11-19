@@ -8,7 +8,7 @@
 - 💻 Веб-разработка (JS): Верстаю лендинги, настраиваю интерактив на стороне клиента.
 
 ## 🚀 Мои проекты
-- [Парсер новых спотовых и фьючерсных листингов Binance](https://github.com/vincerids/js-practice/blob/main/binance-listing-tracker.js)
+**Binance Telegram Notifier**: Скрипт для мониторинга новых листингов на Binance с отправкой уведомлений в Telegram. *(Скоро здесь появится ссылка)*
   
 ## 📫 Как со мной связаться
 - Telegram: [@vincerid](https://t.me/vincerid)
