@@ -9,6 +9,7 @@
 
 ## 🚀 Мои проекты
 **[Мой сайт-портфолио](https://vincerids.github.io/portfolio/)** — Личная визитка с описанием услуг и примерами работ.
+
 [**Binance Telegram Notifier**](https://github.com/vincerids/binance-listing-bot): Скрипт для мониторинга новых листингов на Binance с отправкой уведомлений в Telegram.
   
 ## 📫 Как со мной связаться
